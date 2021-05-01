@@ -4,16 +4,6 @@ import keyboard
 
 hashtag = input(str('what hashtag are you searching for ? :\n'))
 
-
-
-def example():
-	v.click(224,753)
-	sleep(1)
-	keyboard.write(hashtag)
-	sleep(1)
-
-
-
 def work():
 	v.click(224,753)
 	sleep(1)
